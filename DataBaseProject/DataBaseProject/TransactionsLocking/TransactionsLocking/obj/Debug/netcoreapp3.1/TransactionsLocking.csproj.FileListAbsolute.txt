@@ -1,0 +1,13 @@
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\bin\Debug\netcoreapp3.1\TransactionsLocking.exe
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\bin\Debug\netcoreapp3.1\TransactionsLocking.deps.json
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\bin\Debug\netcoreapp3.1\TransactionsLocking.runtimeconfig.json
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\bin\Debug\netcoreapp3.1\TransactionsLocking.runtimeconfig.dev.json
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\bin\Debug\netcoreapp3.1\TransactionsLocking.dll
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\bin\Debug\netcoreapp3.1\TransactionsLocking.pdb
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\obj\Debug\netcoreapp3.1\TransactionsLocking.csproj.AssemblyReference.cache
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\obj\Debug\netcoreapp3.1\TransactionsLocking.AssemblyInfoInputs.cache
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\obj\Debug\netcoreapp3.1\TransactionsLocking.AssemblyInfo.cs
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\obj\Debug\netcoreapp3.1\TransactionsLocking.csproj.CoreCompileInputs.cache
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\obj\Debug\netcoreapp3.1\TransactionsLocking.dll
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\obj\Debug\netcoreapp3.1\TransactionsLocking.pdb
+F:\TutorialsPoint\Tehran Courses\Semester2\AdvancedDataBase\DataBaseProject\DataBaseProject\TransactionsLocking\TransactionsLocking\obj\Debug\netcoreapp3.1\TransactionsLocking.genruntimeconfig.cache
